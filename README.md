@@ -3,8 +3,6 @@
 A simple, modular WhatsApp bot powered by Node.js, WhatsApp-Web.js, and OpenAI. It searches the internet for any requested topic (or general programming news) and generates a 5-minute English reading summary with a vocabulary glossary and a mini-quiz to help you practice your English.
 
 ## Features
-- **No API Keys for Search**: Uses DuckDuckGo to scrape top results completely for free.
-- **GitHub Friendly**: No hardcoded secrets. Requires a `.env` file for OpenAI.
 - **English Difficulty Adjustments**: Send "Make it easier" / "Make it harder" to scale between B1 and C1.
 - **Interactive**: Built-in vocabulary and comprehension quiz.
 
