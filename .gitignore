@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Secrets (CRITICAL)
+.env
+
+# WhatsApp Session Data
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Misc
+.DS_Store
+*.log
